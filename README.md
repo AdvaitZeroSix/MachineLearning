@@ -1,4 +1,5 @@
-# MachineLearning# Machine Learning Projects
+# MachineLearning
+# Machine Learning Projects
 
 This repository contains my machine learning implementations, experiments, and practice projects. It includes models built both from scratch using NumPy and using Scikit-learn.
 

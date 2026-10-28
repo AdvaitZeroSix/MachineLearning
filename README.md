@@ -1,8 +1,8 @@
-# Machine Learning Projects
+# Machine Learning
 
-This repository contains my machine learning implementations, experiments, and practice projects. It includes models built both from scratch using NumPy and using Scikit-learn.
+Machine learning projects and experiments.
 
-## Projects
-
-1. Binary Classification Neural Network from Scratch (NumPy)
-2. FIFA Team Season Outcome Prediction
+| Project | What it is |
+| ------- | ---------- |
+| [NeuralNetwork](NeuralNetwork/) | A binary classifier written in plain NumPy and compared with scikit-learn models |
+| [FIFA Team Performance Predictor](https://github.com/AdvaitZeroSix/FIFA_TeamPerformance) | Random Forest and Decision Tree classifier with a Streamlit app (separate repo) |
